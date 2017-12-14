@@ -1,0 +1,72 @@
+﻿@model HelloWorld.ViewModel.CustomerViewModel
+@using HelloWorld.Models;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EnterCustomer</title>
+</head>
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+<body>
+    <div> 
+       
+        <form id="frm1">
+            <i>Customer Name</i> @Html.TextBoxFor(m => m.customer.CustomerName) <br />
+            @Html.ValidationMessageFor(x => x.customer.CustomerName)<br />
+            <i> Customer Code </i> @Html.TextBoxFor(m => m.customer.CustomerCode)<br />
+            @Html.ValidationMessageFor(x => x.customer.CustomerCode)<br />
+        </form>
+            <input id="Btn" type="button" value="Add customer" onclick="SendData()" />
+        
+      <br />
+        <div id="status"></div>
+     <table id="tbl">
+         <tr>
+                <td>Customer Code</td>
+                <td>Customer Name</td>
+         </tr>
+     </table>
+        <script language="javascript">
+            $("#status").text("Loading...");
+            $.get("getCustomers", null, BindData);
+            function BindData(Customers)
+            {
+                var tbl = $("#tbl"); // got reference of the table
+                // For loop 
+                for (var j = 0; j < Customers.length ; j++)
+                {
+                    var newRow = "<tr>" +
+                     "<td>" + Customers[j].CustomerCode + "</td>" +
+                     "<td>" + Customers[j].CustomerName + "</td>" +
+                 "</tr>";
+                    tbl.append(newRow);
+                }
+                $("#status").text("");
+                
+            }
+            function SendData()
+            {
+                // post call to the MVC controller
+                // reference of the form , serialize 
+                
+                $("#status").text("Adding please wait....");
+                var frm = $("#frm1").serialize();
+                $.post("Submit", frm, BindData);
+                // set the customer code and name textbox
+                // nothing
+                $("#customer_CustomerName").val("");
+                $("#customer_CustomerCode").val("");
+               
+            }
+        </script>
+        
+    </div>
+</body>
+</html>

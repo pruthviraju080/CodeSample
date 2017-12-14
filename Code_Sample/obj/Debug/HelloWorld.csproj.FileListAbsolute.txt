@@ -1,0 +1,249 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.Razor.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\WebGrease.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.Razor.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\Antlr3.Runtime.dll
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\System.Web.Helpers.dll
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\System.Web.Mvc.dll
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\System.Web.Optimization.dll
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\System.Web.Razor.dll
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\System.Web.WebPages.dll
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.dll
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\WebGrease.dll
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\System.Web.Helpers.xml
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\System.Web.Optimization.xml
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\System.Web.Razor.xml
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\System.Web.WebPages.xml
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.xml
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\Antlr3.Runtime.pdb
+C:\MVC\Lab 2\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\MVC\Lab 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\MVC\Lab 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\MVC\Lab 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\Antlr3.Runtime.dll
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\System.Web.Helpers.dll
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\System.Web.Mvc.dll
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\System.Web.Optimization.dll
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\System.Web.Razor.dll
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\System.Web.WebPages.dll
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.dll
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\WebGrease.dll
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\System.Web.Helpers.xml
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\System.Web.Optimization.xml
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\System.Web.Razor.xml
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\System.Web.WebPages.xml
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.xml
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\Antlr3.Runtime.pdb
+C:\MVC\Lab 3\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\MVC\Lab 3\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\MVC\Lab 3\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\MVC\Lab 3\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\Antlr3.Runtime.dll
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\System.Web.Helpers.dll
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\System.Web.Mvc.dll
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\System.Web.Optimization.dll
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\System.Web.Razor.dll
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\System.Web.WebPages.dll
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.dll
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\WebGrease.dll
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\System.Web.Helpers.xml
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\System.Web.Optimization.xml
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\System.Web.Razor.xml
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\System.Web.WebPages.xml
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.xml
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\Antlr3.Runtime.pdb
+C:\MVC\Lab 4\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\MVC\Lab 4\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\MVC\Lab 4\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\MVC\Lab 4\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\Antlr3.Runtime.dll
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\System.Web.Helpers.dll
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\System.Web.Mvc.dll
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\System.Web.Optimization.dll
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\System.Web.Razor.dll
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\System.Web.WebPages.dll
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.dll
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\WebGrease.dll
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\System.Web.Helpers.xml
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\System.Web.Optimization.xml
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\System.Web.Razor.xml
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\System.Web.WebPages.xml
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.xml
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\Antlr3.Runtime.pdb
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\MVC\Lab 5 - Copy\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\Antlr3.Runtime.dll
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\System.Web.Helpers.dll
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\System.Web.Mvc.dll
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\System.Web.Optimization.dll
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\System.Web.Razor.dll
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\System.Web.WebPages.dll
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.dll
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\WebGrease.dll
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\System.Web.Helpers.xml
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\System.Web.Optimization.xml
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\System.Web.Razor.xml
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\System.Web.WebPages.xml
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.xml
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\Antlr3.Runtime.pdb
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\MVC\Lab9\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\MVC\Lab9\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\EntityFramework.dll
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.dll
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\EntityFramework.xml
+C:\MVC\Lab9\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.xml
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\Antlr3.Runtime.dll
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\EntityFramework.dll
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.dll
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\System.Web.Helpers.dll
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\System.Web.Mvc.dll
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\System.Web.Optimization.dll
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\System.Web.Razor.dll
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\System.Web.WebPages.dll
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.dll
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\WebGrease.dll
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\EntityFramework.xml
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.xml
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\System.Web.Helpers.xml
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\System.Web.Optimization.xml
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\System.Web.Razor.xml
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\System.Web.WebPages.xml
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.xml
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\Antlr3.Runtime.pdb
+C:\MVC\Lab11\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\MVC\Lab11\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\MVC\Lab11\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\MVC\Lab11\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\Antlr3.Runtime.dll
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\EntityFramework.dll
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.dll
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\System.Web.Helpers.dll
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\System.Web.Mvc.dll
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\System.Web.Optimization.dll
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\System.Web.Razor.dll
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\System.Web.WebPages.dll
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.dll
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\WebGrease.dll
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\EntityFramework.xml
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.xml
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\System.Web.Helpers.xml
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\System.Web.Optimization.xml
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\System.Web.Razor.xml
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\System.Web.WebPages.xml
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.xml
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\Antlr3.Runtime.pdb
+C:\MVC\Lab12\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\MVC\Lab12\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\MVC\Lab12\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\MVC\Lab12\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\Antlr3.Runtime.dll
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\EntityFramework.dll
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.dll
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\System.Web.Helpers.dll
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\System.Web.Mvc.dll
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\System.Web.Optimization.dll
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\System.Web.Razor.dll
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.dll
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\System.Web.WebPages.dll
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.dll
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\WebGrease.dll
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\EntityFramework.xml
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\EntityFramework.SqlServer.xml
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\System.Web.Helpers.xml
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\System.Web.Optimization.xml
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\System.Web.Razor.xml
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\System.Web.WebPages.xml
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\System.Web.WebPages.Deployment.xml
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\System.Web.WebPages.Razor.xml
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\Antlr3.Runtime.pdb
+C:\MVC\Lab13\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\MVC\Lab13\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\MVC\Lab13\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\MVC\Lab13\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache

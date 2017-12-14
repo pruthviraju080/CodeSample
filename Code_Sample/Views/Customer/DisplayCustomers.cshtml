@@ -1,0 +1,19 @@
+﻿@model HelloWorld.ViewModel.CustomerViewModel
+@using HelloWorld.Models;
+@*<table>
+    <tr>
+        <td>Customer code</td>
+        <td>Customer Name</td>
+    </tr>
+    @foreach (Customer o in Model.customers)
+    {
+        <tr>
+            <td>@o.CustomerCode</td>
+            <td>@o.CustomerName</td>
+        </tr>
+    }
+</table>*@
+@{
+    WebGrid obj = new WebGrid(Model.customers);
+}
+@obj.GetHtml();
